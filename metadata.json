@@ -1,0 +1,6 @@
+{
+  "name": "Golden Lab | معمل الأسنان",
+  "description": "منظومة إدارة معمل الأسنان المتكاملة: بوابة الأطباء والمندوبين، متابعة مسار الحالات والتايم لاين الملون، واعتمادات الحسابات والأرصدة بالجنيه والأقراش.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+# Golden Lab Dental Laboratory (معمل الأسنان المتخصص)
+
+Golden Lab is a high-precision digital dental laboratory (CAD/CAM) located in Cairo, Egypt. It provides comprehensive restorative and prosthetic dental solutions to dentists, clinics, and medical centers.
+
+## Core Capabilities
+- **Digital CAD/CAM Milling**: 5-axis German milling machines for ultra-precise marginal fit (±5 µm).
+- **Zirconia Restorations**: Multi-layer high-translucency zirconia crowns, bridges, and implant-supported superstructures with up to 1200 MPa flexural strength.
+- **Lithium Disilicate (IPS e.max)**: CAD and Press techniques for anterior esthetic veneers, inlays, onlays, and crowns.
+- **Porcelain Fused to Metal (PFM)**: Premium biocompatible alloy base with artistic ceramic layering.
+- **Custom Titanium Abutments**: Precision-milled implant abutments tailored to patient gingival emergence profile.
+
+## Integrated Dental Lab Portal System
+- **Unified Security Gate**: Access portal for certified dentists and field representatives using scoped codes and secure 4-digit PIN credentials.
+- **Live Visual Timeline**: Real-time tracking of dental cases through production stages (Impression Receipt -> CAD 3D Scanning -> Milling & Sintering -> Glazing & Shade Staining -> Clinic Delivery).
+- **Qirsh-Accurate Financial Ledger**: All billing and collections are tracked in integer minor currency units (100 Qirsh = 1 EGP) ensuring zero floating-point calculation errors.
+- **Authoritative Approval Workflow**: Representatives record cases and cash collections into a pending queue; items only affect dentist balances and delivery schedules upon explicit lab administration confirmation.
+- **Strict Role Boundaries**: Dentists only access their own clinical cases; field representatives only interact with their assigned clinic territory; administration maintains an immutable audit log of all financial and credentials activities.
